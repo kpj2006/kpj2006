@@ -71,9 +71,9 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
   </table>
 </div>
 
-## <span style="font-size: 30px;">🚀 More of My Projects</span>
 
-<div align="center">
+
+<!-- <div align="center">  ## <span style="font-size: 30px;">🚀 More of My Projects</span>
   <table>
     <tr>
       <td width="33%" align="center">
@@ -105,7 +105,7 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ## 📫 Let's Connect and Create Some Magic! ✨🎮🚀
 
