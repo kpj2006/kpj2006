@@ -2,12 +2,12 @@
 Namaste 🙏 I'm Karun Pacholi
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:jaihanumanji2006@gmail.com"><img src="https://img.shields.io/badge/Email-jaihanumanji2006%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/karun-pacholi-1356b3285/"><img src="https://img.shields.io/badge/LinkedIn-Karun%20Pacholi-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://x.com/Karun_pacholi"><img src="https://img.shields.io/badge/Twitter-@Karun_pacholi-blue?style=flat-square&logo=twitter"></a>
   <a href="https://github.com/kpj2006"><img src="https://img.shields.io/badge/GitHub-kpj2006-black?style=flat-square&logo=github"></a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="./tenorgif.gif" alt="Welcome GIF" width="700">
