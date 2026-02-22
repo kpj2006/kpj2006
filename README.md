@@ -115,10 +115,10 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaihanumanji2006@gmail.com)
+<!--  [![Email](https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaihanumanji2006@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karun-pacholi-1356b3285/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Karun_pacholi)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpj2006)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kpj2006) -->
 
   <a href="mailto:jaihanumanji2006@gmail.com">
     <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="60" height="60" alt="Email">
@@ -129,9 +129,9 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
   <a href="https://x.com/Karun_pacholi">
     <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="60" height="60" alt="Twitter">
   </a>
-  <a href="https://github.com/kpj2006">
+  <!-- <a href="https://github.com/kpj2006">
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="GitHub">
-  </a>
+  </a> -->
   </a>
 
 </div>
