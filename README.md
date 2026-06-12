@@ -57,7 +57,7 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
       <td width="50%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=kpj2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Karun's GitHub Stats" width="100%"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpj2006&theme=tokyonight&hide_border=true" alt="Karun's GitHub Streak" width="100%" style="margin-top: 20px;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpj2006&layout=compact&theme=tokyonight&hide_border=true" alt="Karun's Top Languages" width="100%" style="margin-top: 20px;" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpj2006&layout=compact&theme=tokyonight&hide_border=true" alt="Karun's Top Languages" width="100%" style="margin-top: 20px;" /> -->
       </td>
       <td width="50%" valign="top">
         <div align="right">
@@ -107,7 +107,7 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
   </table>
 </div> -->
 
-## 📫 Let's Connect and Create Some Magic! ✨🎮🚀
+
 
 <div align="center">
   <p>Ready to embark on an epic coding adventure? Whether you want to debug the matrix, raid a digital dungeon, or just chat about the latest tech, I'm your player two! 🕹️👾</p>
@@ -123,12 +123,12 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
   <a href="mailto:jaihanumanji2006@gmail.com">
     <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="60" height="60" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/karun-pacholi-1356b3285/">
+  <!-- <a href="https://www.linkedin.com/in/karun-pacholi-1356b3285/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" height="60" alt="LinkedIn">
   </a>
   <a href="https://x.com/Karun_pacholi">
     <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="60" height="60" alt="Twitter">
-  </a>
+  </a> -->
   <!-- <a href="https://github.com/kpj2006">
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="60" height="60" alt="GitHub">
   </a> -->
@@ -142,7 +142,7 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kpj2006?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repos" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
@@ -159,4 +159,4 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
 
 <div align="center">
   <img src="https://github.com/Suryansh-23/Suryansh-23/blob/main/images/footer.png" width="100%" height="auto"/>
-</div>
+</div> -->
