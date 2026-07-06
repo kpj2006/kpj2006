@@ -18,19 +18,19 @@ Namaste 🙏 I'm Karun Pacholi
 <img align="right" src="./spikegif.webp" width="300">
 
 <span style="font-size: 18px;">
-I'm a 19-year-old Web3 developer passionate about AI and blockchain, building intelligent smart contracts and cross-chain systems on Ethereum, Solana, and Aptos.  
-I explore generative AI and deep learning to drive innovation in construction and tech through spatial planning and workflow automation.  
-Focused on creating AI-integrated on-chain tools for real-world impact.
+I'm a 20-year-old software developer passionate about building scalable systems across Web3, AI, and cloud infrastructure. I enjoy developing blockchain applications, backend services, and automation workflows while exploring intelligent systems powered by LLMs and modern AI.
+
+### Open Source is everything for me.
 </span>
 
-- 🌱 **Currently Learning:** Data Structures & Algorithms, System Programming, WebAssembly  
-- 💼 **Open to Collaborations in:** Blockchain, AI, and Open Source projects  
-- 💬 **Let's Talk About:** System Design, Blockchain Infrastructure, Latest Tech Trends  
-- 🎯 **Hobbies:** Graphic Design, Exploring Developer Tools, Reading Sci-Fi Novels
+- 🌱 **Currently Learning:** Distributed Systems, Advanced Backend Engineering, AI Infrastructure, WebAssembly
+- 🔭 **Building:** Web3 applications, AI-powered developer tools, automation platforms, and cloud-native services
+- 💬 **Ask Me About:** System Design, DevOps, Web3, AI, Backend Development, and Open Source
+- ⚡ **Interests:** Distributed Systems, Developer Experience, Cloud Infrastructure, and Emerging Technologies
 
-## <span style="font-size: 30px;">🛠️ Languages & Tools</span>
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -47,17 +47,17 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+</p> -->
 
-## <span style="font-size: 30px;">🔥 Github Stats</span>
 
+<!--
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=kpj2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Karun's GitHub Stats" width="100%"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kpj2006&theme=tokyonight&hide_border=true" alt="Karun's GitHub Streak" width="100%" style="margin-top: 20px;" />
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpj2006&layout=compact&theme=tokyonight&hide_border=true" alt="Karun's Top Languages" width="100%" style="margin-top: 20px;" /> -->
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpj2006&layout=compact&theme=tokyonight&hide_border=true" alt="Karun's Top Languages" width="100%" style="margin-top: 20px;" />
       </td>
       <td width="50%" valign="top">
         <div align="right">
@@ -69,7 +69,9 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
       </td>
     </tr>
   </table>
-</div>
+ </div>
+
+-->
 
 
 
@@ -122,6 +124,9 @@ Focused on creating AI-integrated on-chain tools for real-world impact.
 
   <a href="mailto:jaihanumanji2006@gmail.com">
     <img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="60" height="60" alt="Email">
+  </a>
+  <a href="https://calendar.app.google/eKWfxjATPR2zy27AA">
+    <img src="https://img.shields.io/badge/Connect_With_Me-30_Min_Call-1a73e8?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call with me">
   </a>
   <!-- <a href="https://www.linkedin.com/in/karun-pacholi-1356b3285/">
     <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="60" height="60" alt="LinkedIn">
